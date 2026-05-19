@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jenu Gumpu</string>
+    <string name="harvest_log">Harvest Log</string>
+    <string name="grading_tool">Grading Tool</string>
+    <string name="price_monitor">Price Monitor</string>
+    <string name="batch_tracker">Batch Tracker</string>
+    <string name="collective_stock_label">Total Collective Stock</string>
+    <string name="floral_source">Floral Source</string>
+    <string name="quantity_label">Quantity (kg)</string>
+    <string name="location_label">Location</string>
+    <string name="date_label">Date (YYYY-MM-DD)</string>
+    <string name="grade_label">Grade (A/B/C)</string>
+    <string name="floral_source_label">Floral Source</string>
+    <string name="price_label">Price/kg</string>
+    <string name="calculate_profit">Calculate Profit</string>
+    <string name="estimated_earnings">Estimated Earnings: ₹%.2f</string>
+    <string name="profit_calculator">Profit Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="add_harvest">Add Harvest</string>
+    <string name="retail_price">Retail Price</string>
+    <string name="wholesale_price">Wholesale Price</string>
+    <string name="save_label">Save</string>
+    <string name="cancel_label">Cancel</string>
+</resources>
